@@ -1,0 +1,19 @@
+Definition of a Full Stack Developer
+
+A full stack developer is a type of software developer that can perform front end and back end operations,
+ plus has a rich comprehensive set of programming skills, programming languages and problem solving aptitude.
+
+Tools Used by Full Stack Developer
+(1) Computer
+(2) Google
+(3) Text Editor, e.g VS code, Atom etc.
+(4) Stack Overflow and online resources
+
+Languages Used by Full Stack Developer
+(1)HTML
+(2)CSS
+(3)Javascript: react.js, node.js etc
+(4)Python
+(5)PHP
+(6)Laravel
+
